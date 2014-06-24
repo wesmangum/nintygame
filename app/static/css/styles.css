@@ -1,0 +1,11 @@
+body {
+  background-color: #333;
+}
+
+#90s-game {
+   display: block;
+  border: 2px solid white;
+  width: 800px;
+  margin: auto;
+  cursor: pointer;
+}
