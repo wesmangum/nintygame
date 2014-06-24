@@ -1267,7 +1267,7 @@ function ajax(url, type, data, success, dataType){
                     this.load.image('scoreboard', '../../img/scoreboard.png');
                     this.load.image('gameover', '../../img/gameover.png');
                     this.load.image('startButton', '../../img/start.png');
-                    this.load.image('namePlate', '../../img/namePlate.png');
+                    this.load.image('namePlate', '../../img/nameplate.png');
 
                     this.load.audio('leoSong', '../../audios/leo.mp3');
                     this.load.audio('brittneySong', '../../audios/brittney.mp3');
