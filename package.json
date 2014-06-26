@@ -29,6 +29,7 @@
     "socket.io":       "*",
     "cookie-session":  "*",
     "cookies":         "*",
+    "bcrypt":          "*",
     "async":           "*",
     "request":         "*"
   },

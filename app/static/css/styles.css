@@ -3,9 +3,9 @@ body {
 }
 
 #90s-game {
-   display: block;
+  display: inline-block;
   border: 2px solid white;
-  width: 800px;
+  width: 60%;
   margin: auto;
   cursor: pointer;
 }
